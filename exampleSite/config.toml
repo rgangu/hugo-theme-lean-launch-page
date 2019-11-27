@@ -1,6 +1,6 @@
 baseurl = "https://themes.gohugo.io/theme/hugo-theme-lean-launch-page/"
-title = "My New Product"
-author = "Ricardo N Feliciano (FelicianoTech)"
+title = "Ronu"
+author = "Ronu Laboratories, Inc"
 canonifyurls = true
 paginate = 3
 
@@ -9,10 +9,7 @@ theme = "hugo-theme-lean-launch-page"
 googleAnalytics = "UA-123456"
 
 [params]
-tagline = "We're launching a new, better solution."
+tagline = "Machine learning in only 2 steps."
 mailchimpURL = "//my-account.mailchimp.com/my-subscriber-url"
 
-twitter = "https://twitter.com/MyNewProduct"
-facebook = "https://facebook.com/MyNewProduct"
-instagram = "https://instagram.com/MyNewProduct"
-googleplus = "https://plus.google.com/+MyNewProduct"
+
